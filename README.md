@@ -1,10 +1,2 @@
 # flask_mi_app
-aplicacion web basica con flask y python
-Desarrollo para el curso de programacion en lenguajes efectuados para bla bladaasdsda
-unidad formativa uf1467
-    swweqffffffffffffdsf
-    wfewfeqf
-    vrrv
-
-    v
-    
+Hacemos esta aplicacion para aprender a programar en el curso del sef de programacion estructurada
